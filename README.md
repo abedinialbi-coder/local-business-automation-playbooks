@@ -16,6 +16,16 @@ The playbooks are platform-neutral and can be adapted to different CRM and marke
 - Review request workflow
 - Customer reactivation workflow
 
+## Template files
+
+You can also view individual workflow templates:
+
+- [Missed Call Text-Back Template](templates/missed-call-text-back.md)
+- [New Lead Follow-Up Template](templates/new-lead-follow-up.md)
+- [Appointment Reminder Template](templates/appointment-reminder.md)
+- [Quote Follow-Up Template](templates/quote-follow-up.md)
+- [Review Request Template](templates/review-request.md)
+
 ## Common use cases
 
 These workflows are useful for:
